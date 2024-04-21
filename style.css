@@ -25,4 +25,12 @@ body {
   border: 2px solid #fff;
   padding: 10px;
   border-radius: 10px;
+  box-shadow: 0 0 3px #000;
+}
+.modal:hover {
+  background: #46745d;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.5s ease;
+  border: 2px solid #ff4538;
 }
