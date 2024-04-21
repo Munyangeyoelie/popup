@@ -20,6 +20,9 @@ body {
   position: absolute;
   left: 10%;
   top: 70%;
-  width: 350px;
-  height: 700px;
+  width: 210px;
+  color: #fff;
+  border: 2px solid #fff;
+  padding: 10px;
+  border-radius: 10px;
 }
