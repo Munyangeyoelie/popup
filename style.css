@@ -32,6 +32,9 @@ body {
   border: 2px solid #fff;
   border-radius: 10px;
   box-shadow: 0 0 3px #000;
+  background: transparent;
+  padding: 5px;
+  transform: 0.5s;
 }
 #open-btn:hover {
   background: #46745d;
