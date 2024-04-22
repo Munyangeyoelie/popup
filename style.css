@@ -21,18 +21,19 @@ body {
   font-weight: bold;
   background: #fff;
 }
-.modal {
+#open-btn {
   position: absolute;
   left: 10%;
   top: 70%;
-  width: 210px;
+  width: 350px;
+  height: 80px;
   color: #fff;
+  font-size: 2rem;
   border: 2px solid #fff;
-  padding: 10px;
   border-radius: 10px;
   box-shadow: 0 0 3px #000;
 }
-.modal:hover {
+#open-btn:hover {
   background: #46745d;
   color: #000;
   cursor: pointer;
